@@ -1,0 +1,16 @@
+P@k and MAP values for the IR system implemented using BM25 ranking algorithm:
+
+
+Precision @ rank K is
+   
+   P@K ->  {'19': 0.45, '13': 0.25, '12': 0.15} // qID : p@k , where K = 20
+
+************************************************************************************************************
+
+Mean Average Precision
+   
+   MAP ->  0.511328688015 // MAP = AvP(12) + AvP(13) + AvP(19)/3
+                          // where AVP(i) = Average Precision of queryID (i) which is calculated as the average
+                          //                of the precision values at every relevant document retrieved.
+
+************************************************************************************************************

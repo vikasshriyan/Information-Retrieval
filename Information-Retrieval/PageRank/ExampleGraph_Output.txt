@@ -1,0 +1,39 @@
+## PageRank values you obtain for each of the six vertices after 1 iteration
+
+Page Rank Values -> {'A': 0.24930555555555556, 'C': 0.14305555555555555, 'B': 0.11944444444444445,
+                     'E': 0.2138888888888889, 'D': 0.13125, 'F': 0.14305555555555555}
+
+## PageRank values you obtain for each of the six vertices after 10 iteration
+
+Page Rank Values -> {'A': 0.25203637602817186, 'C': 0.15129376593475075, 'B': 0.13930650918251083,
+                     'E': 0.18710661014291716, 'D': 0.11896297277689882, 'F': 0.15129376593475075}
+
+## PageRank values you obtain for each of the six vertices after 100 iteration
+
+Page Rank Values -> {'A': 0.2521271053751956, 'C': 0.1513064898667053, 'B': 0.1393061853185386,
+                     'E': 0.18704590699931614, 'D': 0.11890782257353921, 'F': 0.1513064898667053}
+
+****************************************************************************************************
+
+Length of Web Documents -> 6.0
+Perplexity for Iteration 0  :  6.0
+Perplexity for Iteration 1  :  5.77111484496
+Perplexity for Iteration 2  :  5.73368634907
+Perplexity for Iteration 3  :  5.84218622561
+Perplexity for Iteration 4  :  5.8194598767
+
+Top 6 pages based on page ranks:
+Page :  A  , Rank :  0.249563537346
+Page :  E  , Rank :  0.19093530384
+Page :  F  , Rank :  0.149744818693
+Page :  C  , Rank :  0.149744818693
+Page :  B  , Rank :  0.138056531314
+Page :  D  , Rank :  0.121954990114
+
+Top 6 pages based on in-links count:
+Page :  E  , In-Link Count :  4
+Page :  F  , In-Link Count :  3
+Page :  C  , In-Link Count :  3
+Page :  A  , In-Link Count :  3
+Page :  D  , In-Link Count :  2
+Page :  B  , In-Link Count :  2

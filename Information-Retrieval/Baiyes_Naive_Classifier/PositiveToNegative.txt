@@ -1,0 +1,23 @@
+20 terms with the highest (log) ratio of positive to negative weight :
+
+term ->  mulan  Score ->  4.23745419301
+term ->  flynt  Score ->  4.0207831562
+term ->  shrek  Score ->  3.97118621506
+term ->  lebowski  Score ->  3.58252822527
+term ->  gattaca  Score ->  3.47716770961
+term ->  religion  Score ->  3.39015633262
+term ->  anna  Score ->  3.32763597564
+term ->  ordell  Score ->  3.29484615282
+term ->  guido  Score ->  3.29484615282
+term ->  leila  Score ->  3.26094460114
+term ->  jude  Score ->  3.22585328133
+term ->  crowe  Score ->  3.22585328133
+term ->  sweetback  Score ->  3.18948563716
+term ->  taran  Score ->  3.15174530918
+term ->  homer  Score ->  3.11252459602
+term ->  frequency  Score ->  3.11252459602
+term ->  obi-wan  Score ->  3.0717026015
+term ->  margaret  Score ->  3.0717026015
+term ->  mallory  Score ->  3.0717026015
+term ->  winslet  Score ->  3.02914298708
+

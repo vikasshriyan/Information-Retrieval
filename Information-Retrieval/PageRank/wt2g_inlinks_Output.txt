@@ -1,0 +1,192 @@
+******  List of the perplexity values obtained in each round until convergence: *********
+
+Perplexity for Iteration 0  :  183810.999998
+Perplexity for Iteration 1  :  80012.1601543
+Perplexity for Iteration 2  :  86873.857518
+Perplexity for Iteration 3  :  72745.8322851
+Perplexity for Iteration 4  :  75797.2689789
+Perplexity for Iteration 5  :  69517.1536999
+Perplexity for Iteration 6  :  71873.665275
+Perplexity for Iteration 7  :  68400.1608001
+Perplexity for Iteration 8  :  70038.424682
+Perplexity for Iteration 9  :  68007.4902791
+Perplexity for Iteration 10  :  69122.731813
+Perplexity for Iteration 11  :  67830.8608758
+Perplexity for Iteration 12  :  68640.1974359
+Perplexity for Iteration 13  :  67760.8021686
+Perplexity for Iteration 14  :  68338.4092342
+Perplexity for Iteration 15  :  67751.9522874
+Perplexity for Iteration 16  :  68150.1488692
+Perplexity for Iteration 17  :  67751.2529183
+Perplexity for Iteration 18  :  68036.2805226
+Perplexity for Iteration 19  :  67756.984684
+Perplexity for Iteration 20  :  67960.3544832
+Perplexity for Iteration 21  :  67767.2140785
+Perplexity for Iteration 22  :  67909.8728766
+Perplexity for Iteration 23  :  67775.7548668
+Perplexity for Iteration 24  :  67877.2373315
+Perplexity for Iteration 25  :  67782.6724905
+Perplexity for Iteration 26  :  67855.1255439
+Perplexity for Iteration 27  :  67788.7127819
+Perplexity for Iteration 28  :  67839.9928498
+Perplexity for Iteration 29  :  67793.3846574
+Perplexity for Iteration 30  :  67829.8509187
+Perplexity for Iteration 31  :  67796.8717735
+Perplexity for Iteration 32  :  67822.9143175
+Perplexity for Iteration 33  :  67799.5822275
+Perplexity for Iteration 34  :  67818.0969294
+Perplexity for Iteration 35  :  67801.6111187
+Perplexity for Iteration 36  :  67814.7991007
+Perplexity for Iteration 37  :  67803.096508
+Perplexity for Iteration 38  :  67812.5136683
+Perplexity for Iteration 39  :  67804.2043842
+Perplexity for Iteration 40  :  67810.9187013
+Perplexity for Iteration 41  :  67805.0182906
+Perplexity for Iteration 42  :  67809.8087648
+Perplexity for Iteration 43  :  67805.611607
+Perplexity for Iteration 44  :  67809.0336377
+Perplexity for Iteration 45  :  67806.0447655
+Perplexity for Iteration 46  :  67808.4887411
+Perplexity for Iteration 47  :  67806.3605278
+Perplexity for Iteration 48  :  67808.1067701
+Perplexity for Iteration 49  :  67806.5895895
+Perplexity for Iteration 50  :  67807.8380223
+Perplexity for Iteration 51  :  67806.756036
+Perplexity for Iteration 52  :  67807.6486676
+Perplexity for Iteration 53  :  67806.8764663
+Perplexity for Iteration 54  :  67807.5150567
+Perplexity for Iteration 55  :  67806.9637084
+
+
+
+**********    Top 50 pages based on page ranks: ************
+
+Page :  WT21-B37-76  , Rank :  0.00269447441555
+Page :  WT21-B37-75  , Rank :  0.0015331791
+Page :  WT25-B39-116  , Rank :  0.00146850141633
+Page :  WT23-B21-53  , Rank :  0.00137352493843
+Page :  WT24-B26-10  , Rank :  0.00127615674413
+Page :  WT24-B40-171  , Rank :  0.00124529321761
+Page :  WT23-B39-340  , Rank :  0.00124291315832
+Page :  WT23-B37-134  , Rank :  0.00120542141123
+Page :  WT08-B18-400  , Rank :  0.00114477728784
+Page :  WT13-B06-284  , Rank :  0.00113655800531
+Page :  WT13-B06-273  , Rank :  0.00105492457224
+Page :  WT01-B18-225  , Rank :  0.00095538196468
+Page :  WT04-B27-720  , Rank :  0.000940964388087
+Page :  WT24-B26-46  , Rank :  0.000862238220088
+Page :  WT23-B19-156  , Rank :  0.000825070709726
+Page :  WT04-B30-12  , Rank :  0.000816623256442
+Page :  WT25-B15-307  , Rank :  0.00079722353525
+Page :  WT07-B18-256  , Rank :  0.000775037417362
+Page :  WT24-B40-167  , Rank :  0.000707628733677
+Page :  WT14-B03-220  , Rank :  0.000698885966546
+Page :  WT18-B31-240  , Rank :  0.000694225761177
+Page :  WT14-B03-227  , Rank :  0.000685316190273
+Page :  WT04-B40-202  , Rank :  0.000684680858729
+Page :  WT08-B19-222  , Rank :  0.000649532567951
+Page :  WT23-B20-363  , Rank :  0.000639636012216
+Page :  WT27-B28-203  , Rank :  0.000627079718836
+Page :  WT13-B39-295  , Rank :  0.000621537510913
+Page :  WT13-B15-160  , Rank :  0.000619858571958
+Page :  WT12-B30-56  , Rank :  0.00060245535562
+Page :  WT10-B02-288  , Rank :  0.000584449403785
+Page :  WT14-B36-337  , Rank :  0.000561707322503
+Page :  WT21-B40-37  , Rank :  0.000547187988809
+Page :  WT21-B35-155  , Rank :  0.000545696979497
+Page :  WT23-B01-40  , Rank :  0.00054085212928
+Page :  WT08-B08-60  , Rank :  0.000536122308951
+Page :  WT22-B38-403  , Rank :  0.000533578786251
+Page :  WT13-B39-321  , Rank :  0.000532895454818
+Page :  WT04-B22-268  , Rank :  0.000532864118235
+Page :  WT14-B02-400  , Rank :  0.000532803706143
+Page :  WT18-B14-66  , Rank :  0.000529559574015
+Page :  WT06-B14-69  , Rank :  0.000519161976115
+Page :  WT23-B38-120  , Rank :  0.000518694140983
+Page :  WT06-B35-151  , Rank :  0.000516928125529
+Page :  WT10-B33-300  , Rank :  0.000516773966597
+Page :  WT14-B36-336  , Rank :  0.000515861862273
+Page :  WT14-B36-335  , Rank :  0.000515861862273
+Page :  WT14-B36-334  , Rank :  0.000515861862273
+Page :  WT14-B36-323  , Rank :  0.000515861862273
+Page :  WT06-B35-161  , Rank :  0.000515022164176
+Page :  WT27-B20-494  , Rank :  0.000514480870452
+
+
+*************     Top 50 pages based on in-links count:   *****************
+
+Page :  WT21-B37-76  , In-Link Count :  2568
+Page :  WT21-B37-75  , In-Link Count :  1704
+Page :  WT01-B18-225  , In-Link Count :  1137
+Page :  WT08-B19-222  , In-Link Count :  1041
+Page :  WT08-B18-400  , In-Link Count :  990
+Page :  WT21-B40-447  , In-Link Count :  779
+Page :  WT27-B34-57  , In-Link Count :  630
+Page :  WT27-B32-30  , In-Link Count :  628
+Page :  WT25-B15-307  , In-Link Count :  605
+Page :  WT27-B28-203  , In-Link Count :  589
+Page :  WT18-B40-82  , In-Link Count :  576
+Page :  WT21-B37-71  , In-Link Count :  560
+Page :  WT13-B15-160  , In-Link Count :  484
+Page :  WT23-B30-88  , In-Link Count :  477
+Page :  WT27-B28-177  , In-Link Count :  461
+Page :  WT13-B06-284  , In-Link Count :  454
+Page :  WT13-B06-273  , In-Link Count :  452
+Page :  WT13-B39-295  , In-Link Count :  443
+Page :  WT14-B36-337  , In-Link Count :  417
+Page :  WT10-B33-300  , In-Link Count :  406
+Page :  WT23-B23-51  , In-Link Count :  400
+Page :  WT23-B27-29  , In-Link Count :  388
+Page :  WT23-B30-105  , In-Link Count :  379
+Page :  WT14-B36-336  , In-Link Count :  368
+Page :  WT14-B36-335  , In-Link Count :  368
+Page :  WT14-B36-334  , In-Link Count :  368
+Page :  WT14-B36-323  , In-Link Count :  368
+Page :  WT23-B30-89  , In-Link Count :  367
+Page :  WT23-B19-156  , In-Link Count :  364
+Page :  WT12-B40-248  , In-Link Count :  357
+Page :  WT17-B34-509  , In-Link Count :  356
+Page :  WT17-B34-508  , In-Link Count :  356
+Page :  WT17-B34-507  , In-Link Count :  356
+Page :  WT17-B34-506  , In-Link Count :  356
+Page :  WT17-B34-505  , In-Link Count :  356
+Page :  WT17-B34-504  , In-Link Count :  356
+Page :  WT17-B34-503  , In-Link Count :  356
+Page :  WT17-B34-502  , In-Link Count :  356
+Page :  WT17-B34-501  , In-Link Count :  356
+Page :  WT17-B34-500  , In-Link Count :  356
+Page :  WT17-B34-499  , In-Link Count :  356
+Page :  WT17-B34-498  , In-Link Count :  356
+Page :  WT12-B40-235  , In-Link Count :  355
+Page :  WT12-B40-241  , In-Link Count :  342
+Page :  WT12-B40-254  , In-Link Count :  334
+Page :  WT04-B40-202  , In-Link Count :  322
+Page :  WT24-B26-2  , In-Link Count :  320
+Page :  WT04-B40-238  , In-Link Count :  311
+Page :  WT04-B30-256  , In-Link Count :  301
+Page :  WT24-B26-10  , In-Link Count :  291
+
+
+******************************************************************
+
+** Proportion of pages with no in-links (sources) :
+   -> Count of Pages with no in-links / Total count of Pages in the web Document
+   -> Here Count of Pages with no in-links = 14350
+   -> Total Count of Pages in the Web Document = 183811
+   -> Proportion of pages with no in-links (sources) = Count of Pages with no in-links/Total Count of Pages in the Web Document
+                                                     = 0.0780693212049
+
+** Proportion of pages with no out-links (sinks) :
+   -> Count of Pages with no out-links / Total count of Pages in the web Document
+   -> Here Count of Pages with no out-links = 66175
+   -> Total Count of Pages in the Web Document = 183811
+   -> Proportion of pages with no out-links (sinks) = Count of Pages with no out-links/Total Count of Pages in the Web Document
+                                                    =  0.360016538727
+
+** Proportion of pages whose PageRank is less than their initial, uniform values :
+   -> Count of Pages whose (Page Rank value < Initial Page Rank) / Total count of Pages in the web Document
+   -> Count of Pages whose (Page Rank value < Initial Page Rank) = 144318
+   -> Total Count of Pages in the Web Document = 183811
+   -> Proportion of pages whose PageRank is less than their initial, uniform values
+      = Count of Pages whose (Page Rank value < Initial Page Rank) / Total count of Pages in the web Document
+      = 0.785143435377
